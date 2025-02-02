@@ -13,7 +13,7 @@ This repository contains the assignments for my Reinforcement Learning course.  
 ├── regression/
 │   └── Assignment 4/
 └── RL Algorithms/
-└── Assignment 6/
+    └── Assignment 6/
 
 ## Assignments
 
