@@ -46,7 +46,7 @@ Each assignment requires specific libraries to run. Below is a list of dependenc
   - `numpy`
   - `matplotlib`
   - `scikit-learn`
-  - `torch` (for neural network comparison)
+  - `tensorflow` (for neural network comparison)
 
 - **Assignment 5: MPC Controller with Casadi**
   - `casadi`
