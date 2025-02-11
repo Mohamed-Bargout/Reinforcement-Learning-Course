@@ -28,3 +28,39 @@ This repository contains the assignments for my Reinforcement Learning course.  
 *   **Assignment 5: MPC Controller with Casadi:** This assignment utilizes the Casadi solver to construct a Model Predictive Control (MPC) controller.  MPC is a powerful technique for optimizing control actions over a finite horizon.
 
 *   **Assignment 6: DQN and DDPG for Lunar Lander:**  Using the Gymnasium library, this assignment implements and trains Deep Q-Networks (DQN) and Deep Deterministic Policy Gradients (DDPG) to control the Lunar Lander environment.  The performance of the two algorithms is then compared in terms of episode length and rewards.
+
+## Libraries Needed for Each Assignment  
+
+Each assignment requires specific libraries to run. Below is a list of dependencies categorized by assignment:
+
+- **Assignment 1 & 2: Grid World (Value Functions & Optimal Policy)**
+  - `numpy`
+  - `matplotlib`
+
+- **Assignment 3: Cartpole Control with Q-Learning**
+  - `gymnasium`
+  - `numpy`
+  - `matplotlib`
+
+- **Assignment 4: Linear Regression**
+  - `numpy`
+  - `matplotlib`
+  - `scikit-learn`
+  - `torch` (for neural network comparison)
+
+- **Assignment 5: MPC Controller with Casadi**
+  - `casadi`
+  - `numpy`
+  - `matplotlib`
+
+- **Assignment 6: DQN and DDPG for Lunar Lander**
+  - `gymnasium`
+  - `numpy`
+  - `torch`
+  - `matplotlib`
+
+You can install all required dependencies using:  
+
+```bash
+pip install -r requirements.txt
+
