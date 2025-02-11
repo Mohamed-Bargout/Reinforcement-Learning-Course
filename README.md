@@ -3,7 +3,7 @@
 This repository contains the assignments for my Reinforcement Learning course.  The assignments cover various aspects of RL, from basic discrete state and action problems to more advanced topics like regression and implementing common RL algorithms.
 
 ## Folder Structure
-
+```
 ├── Controllers/
 │   └── Assignment 5/
 ├── Discrete state & action/
@@ -14,7 +14,7 @@ This repository contains the assignments for my Reinforcement Learning course.  
 │   └── Assignment 4/
 └── RL Algorithms/
     └── Assignment 6/
-
+```
 ## Assignments
 
 *   **Assignment 1: Grid World Value Functions:** This assignment involves creating a model of a given grid world and calculating the state and action value functions.  This provides a foundation for understanding how to evaluate different states and actions within a simple environment.
