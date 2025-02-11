@@ -62,6 +62,6 @@ Each assignment requires specific libraries to run. Below is a list of dependenc
 You can install all required dependencies using:  
 
 ```bash
-pip install gymnasium numpy matplotlib scikit-learn torch casadi
+pip install gymnasium numpy matplotlib scikit-learn tensorflow casadi
 
 
